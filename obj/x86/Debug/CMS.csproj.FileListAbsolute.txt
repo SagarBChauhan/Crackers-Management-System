@@ -1,0 +1,112 @@
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Home.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Properties.Resources.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.csproj.GenerateResource.Cache
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\bin\Debug\CMS.exe
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\bin\Debug\CMS.pdb
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.exe
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.pdb
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Login.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Manage.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.HomeView.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Order.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.ChangePassword.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Employee.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.EmployeeSearch.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Supplier.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.SearchSupplier.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Item.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.SearchItem.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Update.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.UpdateEmployee.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.UpdateItem.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.UpdateSupplier.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.UpdateEmp.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.SearchEmp.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.SearchItemForm.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.UpdateItemForm.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.AddEmp.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.AddItem.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.AddSupplier.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.SearchSupplierForm.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.UpdateSupplierForm.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.ManageEmp.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.ManageItem.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.ManageSupplier.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.ManageEmployeeForm.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.ManageItemForm.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.ManageSupplierForm.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Bill.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\bin\Debug\hsb-DE\CMS.resources.dll
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Bill.hsb-DE.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\hsb-DE\CMS.resources.dll
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.AddCustomer.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.EmpHome.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\bin\Debug\itextsharp.dll
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.SearchCustomer.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.About.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Stock.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.UserControl1.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.StockCheck.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.UpdateStock.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.Report.resources
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\bin\Debug\CMS.exe.config
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\CMS.csprojResolveAssemblyReference.cache
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\RdlCompile.cache
+E:\Study\SEM4\GUI Programming\Project\CMS\CMS\obj\x86\Debug\RdlCompile.compiled
+E:\Study\SEM4\GUI Programming\Project\CMS - Copy\CMS\bin\Debug\CMS.exe.config
+E:\Study\SEM4\GUI Programming\Project\CMS - Copy\CMS\obj\x86\Debug\CMS.exe
+E:\Study\SEM4\GUI Programming\Project\CMS - Copy\CMS\obj\x86\Debug\CMS.pdb
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\bin\Debug\CMS.exe.config
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.exe
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.pdb
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\bin\Debug\CMS.exe
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\bin\Debug\CMS.pdb
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\bin\Debug\hsb-DE\CMS.resources.dll
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.csprojResolveAssemblyReference.cache
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.About.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.AddCustomer.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.AddEmp.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.AddItem.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.AddSupplier.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Bill.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.ChangePassword.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.EmpHome.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Employee.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.EmployeeSearch.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Home.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.HomeView.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Item.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Login.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Manage.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.ManageEmp.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.ManageEmployeeForm.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.ManageItem.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.ManageItemForm.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.ManageSupplier.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.ManageSupplierForm.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Order.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Properties.Resources.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Report.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.SearchCustomer.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.SearchEmp.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.SearchItem.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.SearchItemForm.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.SearchSupplier.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.SearchSupplierForm.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Stock.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.StockCheck.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Supplier.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Update.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.UpdateEmp.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.UpdateEmployee.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.UpdateItem.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.UpdateItemForm.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.UpdateStock.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.UpdateSupplier.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.UpdateSupplierForm.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.UserControl1.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.Bill.hsb-DE.resources
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\CMS.csproj.GenerateResource.Cache
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\RdlCompile.cache
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\RdlCompile.compiled
+E:\Study\SEM4\GUI Programming\CMS - Copy\CMS\obj\x86\Debug\hsb-DE\CMS.resources.dll
